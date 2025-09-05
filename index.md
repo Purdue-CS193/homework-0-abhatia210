@@ -1,8 +1,6 @@
-# <Your Name>'s First CS193 Homework
+# <Aditi Bhatia>'s First CS193 Homework
 ## Welcome to Aditi's Website!
 
-
-### :)
 
 ```markdown
 
