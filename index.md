@@ -1,4 +1,4 @@
-# <Aditi Bhatia>'s First CS193 Homework
+# Aditi Bhatia's First CS193 Homework
 ## Welcome to Aditi's Website!
 
 # Aditi's Favorite Things About CS19300:
